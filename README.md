@@ -21,7 +21,7 @@
 
 ### About Me
 
-I'm a Computer Science undergrad passionate about mixing technology, design, and psychology to build things that matter. Whether it's **gamified learning**, **AI-generated children's songs**, or tools to support kids with ADHD, I believe tech can (and should!) be inclusive, fun, and empowering.
+I'm a Computer Science undergrad passionate about mixing technology, design to build things that matter. I believe tech can (and should!) be inclusive, fun, and empowering.
 
 - Currently working on **Mnemoro**: a gamified app that teaches memory techniques to children with ADHD
 - Exploring **mnemonics** to improve memory.

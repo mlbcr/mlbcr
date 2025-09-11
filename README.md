@@ -38,14 +38,6 @@ I'm a Computer Science undergrad passionate about mixing technology, design to b
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-### 📌 Current Projects
-
-| Project        | Description |
-|----------------|-------------|
-| **Mnemoro** | Gamified platform using memory techniques to help kids with ADHD focus, learn, and grow |
-
----
 
 <p align="center">
   💫 “Coding for change” 💫

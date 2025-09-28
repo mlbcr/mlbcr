@@ -21,14 +21,9 @@
 
 ### About Me
 
-I'm a Computer Science undergrad passionate about mixing technology, design to build things that matter. I believe tech can (and should!) be inclusive, fun, and empowering.
+I'm a Computer Science undergrad passionate about Data Science. My goal is to transform the world with data.
 
-- Currently working on **Mnemoro**: a gamified app that teaches memory techniques to children with ADHD
-- Exploring **mnemonics** to improve memory.
-- Always learning: from machine learning to entrepreneurship.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlbcr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+![mlbcr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mlbcr&theme=tokyonight&hide_border=false)
 ---
 
 ### Languages I Use

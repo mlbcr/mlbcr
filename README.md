@@ -1,21 +1,15 @@
 <h1 align="center">Hi, I'm Maria Luísa Barreto</h1>
 
 <p align="center">
-  Computer Science student | CEFET/RJ
-</p>
-
-<p align="center">
   
   <a href="https://www.linkedin.com/in/maria-luísa-barreto/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://discord.com/users/eusoumary">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  
 </p>
-
+<p align="center">
+  Computer Science student | CEFET/RJ | Data Analyst
+</p>
 
 ---
 
@@ -23,8 +17,8 @@
 
 I'm a Computer Science undergrad passionate about Data Science. My goal is to transform the world with data.
 
-![mlbcr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mlbcr&theme=tokyonight&hide_border=false)
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mlbcr&theme=tokyonight&hide_border=false)
+
 
 ### Languages I Use
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -34,6 +28,4 @@ I'm a Computer Science undergrad passionate about Data Science. My goal is to tr
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-<p align="center">
-  💫 “Coding for change” 💫
-</p>
+---

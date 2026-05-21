@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maria Luísa Barreto</h1>
+<h1 align="center">Hi, I'm Maria Luísa</h1>
 
 <p align="center">
   
@@ -7,7 +7,6 @@
   Computer Science student | CEFET/RJ | Data Analyst
 </p>
 
----
 
 ### About Me
 
